@@ -23,9 +23,9 @@ I perform simple, well-defined tasks under supervision within a reasonable numbe
 - Ability to accept feedback.
 
 ## :no_entry: Behavior to avoid 
-- Lack of self-motivation,
-- Being ok with poor code quality,
-- Сomplete lack of independence.
+- Demonstrating a lack of self-motivation,
+- Accepting poor code quality as satisfactory,
+- Displaying a complete lack of independence in problem-solving.
 
 ## Hard skills
 Technical Development Roadmap
