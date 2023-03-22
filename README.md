@@ -9,15 +9,14 @@ In [Devexperts](https://devexperts.com/), we use the Grading System which:
 
 ## Here are some basic principles we follow
 
-- While having a strong set of hard skills is important, we also consider the impact you have on projects when deciding on level upgrades.
-- Each level requires a different balance of skills, so it's important to keep growing and developing in your role.
-- We encourage employees to demonstrate their skills and achievements to earn an upgrade.
-- We believe in maintaining your current level and not downgrading your position.
-- As an employee, it's your responsibility to showcase your accomplishments and contributions to the team.
-- We value upgrades that are visible and recognized by everyone.
-- Each level builds upon the previous one, creating a cumulative experience.
-- To ensure that everyone’s progress is accurately tracked, we recommend regularly reviewing grading documentation through one-on-one meetings, ideally more than once a year.
-
+- Prove your skills first to get an upgrade.
+- Your hard skills set does not guarantee your level upgrade. Your impact on the project plays a much bigger role.
+- Different levels require different balances between skills.
+- No level downgrades.
+- It's an Employee's responsibility to showcase their achievements.
+- The best upgrade is the one that's evident to everyone.
+- Levels are cumulative. Each subsequent level incorporates the previous ones.
+- Ideally, the grading documentation should be reviewed more than once a year through recurrent one-on-ones.
 
 ## The levels we use
 
