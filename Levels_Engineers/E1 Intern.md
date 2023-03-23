@@ -12,7 +12,7 @@ I have strong fundamental knowledge, can write code, and constantly learn.
 ## Am I doing good? 
 - I understand the project's processes and comply with them.
 - I dig into our stack of technologies.
-- I feel like over the last 2 weeks, I’ve learnt more than within my university tenure.
+- I’ve learnt more than within my last 6 months.
 - I can navigate through the code base easily.
 
 ## Behavior to Pursue
@@ -21,10 +21,10 @@ I have strong fundamental knowledge, can write code, and constantly learn.
 - Ability to search and analyze the information.
 
 ## :no_entry: Behavior to avoid
-- Same questions again and again.
-- Laziness.
-- Fear of asking questions.
-- Helplessness.
+- Repeatedly asking the same questions,
+- Demonstrating a lack of motivation or effort,
+- Hesitating to ask for help or clarification when needed,
+- Appearing overwhelmed and helpless in completing tasks.
 
 ## Hard skills
 Technical Development Roadmap 
