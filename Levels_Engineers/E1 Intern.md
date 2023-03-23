@@ -12,7 +12,7 @@ I have strong fundamental knowledge, can write code, and constantly learn.
 ## Am I doing good? 
 - I understand the project's processes and comply with them.
 - I dig into our stack of technologies.
-- I’ve learnt more than within my last 6 months.
+- I feel like over the last 2 weeks, I’ve learnt more than within my last 6 months.
 - I can navigate through the code base easily.
 
 ## Behavior to Pursue
