@@ -61,8 +61,8 @@ These tracks are not dead ends. We offer a range of customized career developmen
 
 ## What to read next?
 
-- [How to Use Grading System for Engineers](Levels_Engineers/engineers-profile.md) 
-- [How to Use Grading System for Engineering Managers](Levels_Engineering_Managers/engineering-managers-profile.md) 
+- [How to Use Grading System for Engineers](Levels_Engineers/How%20to%20use%20Grading%20System.md) 
+- [How to Use Grading System for Engineering Managers](Levels_Engineering_Managers/How%20to%20use%20Grading%20System%20EM.md) 
 - [FAQ](FAQ.md)
 
  
