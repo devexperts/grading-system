@@ -20,7 +20,7 @@ In [Devexperts](https://devexperts.com/), we use the Grading System which:
 
 ## The levels we use
 
-There are [7 grade levels for Engineers (E1 - E7)](Levels_Engineers/engineers-profile.md) and [3 grade levels for Engineering Managers(EM1 - EM3)](Levels_Engineering_Managers/engineering-managers-profile.md):
+There are [7 grade levels for Engineers (E1 - E7)](Levels_Engineers/) and [3 grade levels for Engineering Managers(EM1 - EM3)](Levels_Engineering_Managers/):
 
  ![Grading System](img/Grades%20System.jpg)
 
