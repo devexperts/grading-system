@@ -1,3 +1,5 @@
+[![Check Markdown links](https://github.com/devexperts/grading-system/actions/workflows/action.yml/badge.svg)](https://github.com/devexperts/grading-system/actions/workflows/action.yml)
+
 # Engineering Grading System at Devexperts
 
 In [Devexperts](https://devexperts.com/), we use the Grading System which:
