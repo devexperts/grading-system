@@ -24,7 +24,7 @@
     - Fill out the "Examples" section. *No positions without examples/arguments should remain*.
     - If you have at least one M in the "Behavior to avoid" section, consider this a blocker. Please improve and come back in a while.
       - For the Managers: please look through the "Behavior to avoid" sections in the lower grades. If the Employee has something above an S, it should be discussed and included in their Personal Development Plan.	
-- For tech skills assessment use the Technical Development Roadmap.
+- For tech skills assessment use the [Technical Development Roadmap](https://docs.google.com/spreadsheets/d/1g3lsqXwZzOvBu3MI7zOL0vNstbvqIGpCe479ZVBwfA4/edit?usp=sharing).
   - We expect an M level of technical knowledge for your level.
   - Сompliance with the level of technical skills is a necessary but not sufficient condition for a certain grade.
   - A set of necessary technical skills is discussed with the Manager and included in the Personal Development Plan based on the results of the assessment.
@@ -68,10 +68,7 @@
 :exclamation: For the Managers! 
 When you reach the agreement on the content of the PPR form, upload the final version of the form to the HRBO:
 - Delete unfilled E[n] pages,
-- Upload the resulting file to HRBO:
-  - as PPR results in case Grading was done as a regular PPR.
-  - as Grading results if Grading was performed between/aside from PPR process.
-- For the Frontend, RIA, DevOps, .NET Engineers:
+- Upload the resulting PPR form to HRBO,
 - Upload to the HBRO the filled Technical Roadmap in excel along with the PPR form.
 
 
