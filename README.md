@@ -2,7 +2,7 @@
 
 # Engineering Grading System at Devexperts
 
-In [Devexperts](https://devexperts.com/), we use the Grading System which:
+At [Devexperts](https://devexperts.com/), we use the Grading System which:
 
 - Synchronizes engineering grades across the company,
 - Makes career levels transparent,
