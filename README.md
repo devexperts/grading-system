@@ -9,7 +9,7 @@ At [Devexperts](https://devexperts.com/), we use the Grading System which:
 - Specifies our expectations from engineering managers and individual contributors (engineers).
 
 
-## Here are some basic principles we follow
+## Here are some basic principles we follow:
 
 - Prove your skills first to get an upgrade.
 - Your hard skills set does not guarantee your level upgrade. Your impact on the project plays a much bigger role.
