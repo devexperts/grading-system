@@ -8,7 +8,7 @@ I am independently responsible for all aspects of people management and the enti
 ## People Management / Working with People
 - I create useful and realistic development plans that enable my team members to grow.
 - I delegate my tasks/responsibility to the team.
-- I help engineers tap their toes in team leading duties and mentor them.
+- I help engineers to start team leading duties and mentor them along the way.
 - My team is responsible for a whole interview cycle of an engineer.
 - I manage low-performers, up to retiring.
 - I hire proactively even when there is no direct demand for that.
