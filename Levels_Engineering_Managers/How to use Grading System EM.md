@@ -9,13 +9,24 @@
 - Self-assessment document description:
   - It contains the list of the skills required for each of the grades from EM1 to EM3.
   - Dropdowns have a T-shirt model to evaluate each point:
-	- N/A - not applicable,
-    - XS - very little/very rarely,
-    - S - little/rarely,
-    - M - average,
-    - L - much/often,
-    - XL - very much/very often,
-    - When choosing a value for each position, rely on the real situation (I do it) and not on the potential (I could do).
+    - N/A - Is not applicable or equals 0
+      - Did not participate in activity (The reason is described in the comments).
+    - XS - Room for improvement
+      - Did it only 1 time.
+      - Results are never achieved in time and are with low-quality.
+    - S - On the Way
+      - Activity is rarely performed.
+      - Results are either achieved in time OR with satisfying quality, but not both.
+    - M - Meets Expectations
+        - Performs the activity in a regular manner.
+        - Results are achieved in time AND with satisfying quality.
+    - L - Exceeds Expectations
+      - Proactive in this activity, do it pretty often.
+      - Always achieves results on time and with excellent quality, with no pushing or guidance required.
+    - XL - Outstanding Performance
+      - Leads the activity, being one of the best in the company.
+      - Results are outstanding, clearly contributing to the overall success of the organization, and having a measurable impact on the company's key goals.  
+    - When choosing a value for each position, rely on the real situation (I do it) and not on the potential (I could do it). NOTICE: Behavior to avoid is evaluated in the opposite way – the smaller is better.
   - Ground rules for Self-assessment template:
     - A dropdown for every line - *no empty cells should remain*.
     - Your mark should be at least an L in the "Overview" (green cell in the table) to be fit for the grade.
