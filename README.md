@@ -24,7 +24,7 @@ At [Devexperts](https://devexperts.com/), we use the Grading System which:
 
 There are [5 grades for Business Analysts](Levels_Business_Analysts/) 
 
- ![Grading System](img/Grades%20System-BA.png)
+ ![Grading System](img/Grades%20system-BA.png)
 
 These tracks are not dead ends. We offer a range of customized career development options to help you achieve your goals.
 
