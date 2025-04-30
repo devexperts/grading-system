@@ -1,12 +1,12 @@
 [![Check Markdown links](https://github.com/devexperts/grading-system/actions/workflows/action.yml/badge.svg)](https://github.com/devexperts/grading-system/actions/workflows/action.yml)
 
-# Engineering Grading System at Devexperts
+# Grading System at Devexperts
 
 At [Devexperts](https://devexperts.com/), we use the Grading System which:
 
-- Synchronizes engineering grades across the company,
+- Synchronizes grades across the company,
 - Makes career levels transparent,
-- Specifies our expectations from engineering managers and individual contributors (engineers).
+- Specifies our expectations from managers and individual contributors.
 
 
 ## Here are some basic principles we follow:
@@ -28,7 +28,7 @@ There are [5 grades for Business Analysts](Levels_Business_Analysts/)
 
 These tracks are not dead ends. We offer a range of customized career development options to help you achieve your goals.
 
-## Grading System for Engineers
+## Grading System for Business Analysts
 
 **For Business Analysts Grades**, there are the following main sections:
 - Overview and regular tasks (the most important part) – "What do I usually do?",
@@ -44,9 +44,7 @@ These tracks are not dead ends. We offer a range of customized career developmen
 
 ## What to read next?
 
-- [How to Use Grading System for Engineers](Levels_Engineers/How%20to%20use%20Grading%20System.md) 
-- [How to Use Grading System for Engineering Managers](Levels_Engineering_Managers/How%20to%20use%20Grading%20System%20EM.md) 
-- [FAQ](FAQ.md)
+- [How to Use Grading System for Business Analysts](Levels_Business_Analysts/How%20to%20use%20Grading%20System%20BA.md) 
 
  
 ### License and Copyright
